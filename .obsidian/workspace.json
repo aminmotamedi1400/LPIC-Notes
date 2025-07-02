@@ -11,10 +11,14 @@
             "id": "4727c0334e3a4c42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README.md"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README.md"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README.md"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README.md"
             }
           }
         ]
@@ -161,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4727c0334e3a4c42",
+  "active": "ae5ce0de77e75468",
   "lastOpenFiles": [
+    "README.md.md",
     "110/110.md",
     "110/1-perform-security-administration-tasks.md",
     "109/109.md",
@@ -192,7 +200,6 @@
     "108",
     "107/3-localisation-and-internationalisation.md",
     "107/2-automate-system-administration-tasks-by-scheduling-jobs.md",
-    "107/1-manage-user-and-group-accounts-and-related-system-files.md",
     "107",
     "106",
     "105",
